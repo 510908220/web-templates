@@ -8,6 +8,9 @@
 
 - [vue-admin](https://github.com/zzmhot/vue-admin)
 - [CoPilot](https://github.com/misterGF/CoPilot)
+- [vue-bulma-vue-admin](https://github.com/vue-bulma/vue-admin)
+- [taylorchen709-vue-admin](https://github.com/taylorchen709/vue-admin)
+
 
 ## bootstrap
 
